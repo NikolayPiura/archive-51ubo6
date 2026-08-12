@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NikolayPiura.github.io/archive-51ubo6/sitemap.xml
